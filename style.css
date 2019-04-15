@@ -29,3 +29,22 @@
     display:flex;
     justify-content:space-between;
 }
+#info{
+    color: #a52a26;
+    font-weight:bold;
+    
+}
+#me{
+    color:white;
+    font-style: italic;
+}
+#Page{
+    color:white;
+    
+}
+#Chat{
+    color:white;
+}
+#Bone{
+    background:black;
+}
